@@ -1,0 +1,392 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wish1{
+
+}
+
+/* wish1 */
+
+#wish1{
+  background: url('wish01.jpg');
+  height:100vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 85vw 80vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish1 #wish1 img{
+  height:250px;
+  width:150px;
+  transform:translateX(1000px) translateY(100px);
+}
+
+ #wish1 p{
+  font-size:28px;
+  width: 50vw;
+  transform: translateX(250px) translateY(-65px);
+}
+
+
+
+.wish2{
+
+}
+
+#wish2{
+  background: url('images/wish2.jpg');
+  height:100vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 85vw 80vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #a4cadf;
+}
+
+.wish2 #wish2 img{
+  height:250px;
+  width:150px;
+  transform:translateX(1000px) translateY(100px);
+}
+
+ #wish2 p{
+  font-size:28px;
+  width: 50vw;
+  transform: translateX(250px) translateY(-65px);
+}
+
+#bunny_image_2{
+  height:1000px;
+  width:100px;
+  position: relative;
+  transform: translateX(-1000px) translateY(-1000px);
+  transform: scale(10,10);
+}
+
+.wish3{
+
+}
+
+#wish3{
+  background: url('images/wish3.jpg');
+  height:100vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 85vw 80vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #a4cadf;
+}
+
+#bunny_image_2{
+  height:1000px;
+  width:100px;
+  position: relative;
+  transform: translateX(-1000px) translateY(-1000px);
+  transform: scale(10,10);
+}
+
+
+.wish4{
+
+}
+
+/* wish4 */
+
+#wish4{
+  background: url('images/wish4.jpg');
+  height:120vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 80vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+
+
+
+
+.wish5{
+
+}
+
+/* wish5 */
+
+#wish5{
+  background: url('wish5.jpg');
+  height:100vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 85vw 80vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish5 #wish5 img{
+  height:250px;
+  width:150px;
+  transform:translateX(1000px) translateY(100px);
+}
+
+ #wish5 p{
+  font-size:28px;
+  width: 50vw;
+  transform: translateX(250px) translateY(-65px);
+}
+
+
+
+
+
+.wish6{
+
+}
+
+/* wish6 */
+
+#wish6{
+  background: url('wish01.jpg');
+  height:100vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 85vw 80vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish6 #wish6 img{
+  height:250px;
+  width:150px;
+  transform:translateX(1000px) translateY(100px);
+}
+
+ #wish6 p{
+  font-size:28px;
+  width: 50vw;
+  transform: translateX(250px) translateY(-65px);
+}
+
+
+
+
+
+
+.wish7{
+
+}
+
+/* wish7 */
+
+#wish7{
+  background: url('images/wish7.jpg');
+  height:120vh;
+  background-position: center;
+  background-size: contain;
+  background-size: 70vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #c7a4ba;
+}
+
+
+
+
+
+
+
+
+.wish8{
+
+}
+
+/* wish8 */
+
+#wish8{
+  background: url('images/wish8.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 70vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish9{
+
+}
+
+/* wish9 */
+
+#wish9{
+  background: url('images/wish9.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 80vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish10{
+
+}
+
+/* wish10 */
+
+#wish10{
+  background: url('images/wish10.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 75vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+
+
+
+
+
+.wish12{
+
+}
+
+/* wish12 */
+
+#wish12{
+  background: url('images/wish12.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 75vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish13{
+
+}
+
+/* wish13 */
+
+#wish13{
+  background: url('images/wish13.jpg');
+  height:110vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 80vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish14{
+
+}
+
+/* wish14 */
+
+#wish14{
+  background: url('images/wish14.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 80vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+
+.wish15{
+
+}
+
+/* wish16 */
+
+#wish15{
+  background: url('images/wish15.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 55vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}
+.wish16{
+
+}
+
+/* wish16 */
+
+#wish16{
+  background: url('images/wish16.jpg');
+  height:140vh;
+  background-position: center;
+  background-size: contain ;
+  background-size: 55vw 100vh;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  align-content: center;
+  overflow: hidden;
+background-color: #ddc5d5;
+}

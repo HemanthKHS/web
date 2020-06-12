@@ -1,0 +1,428 @@
+
+
+
+
+.questions-container{
+  width:100%;
+  height:100vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-attachment: fixed;
+
+}
+
+.card-container{
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+
+}
+
+ .card-container:nth-child(2){
+  padding: 10px;
+  width: 400px;
+  height: 300px;
+
+}
+
+.card{
+  width:100%;
+  height:100%;
+  transition: transform 1s ease-in-out;
+  transform-style: preserve-3d;
+  padding:0px;
+}
+.card-container:hover .card{
+  transform: rotateY(180deg);
+}
+
+.card figure{
+width: 100%;
+height: 100%;
+position: absolute;
+margin: 0;
+border-radius: 5px;
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.card .front{
+  background: cyan;
+  color:white;
+  transform: rotateY(180deg);
+}
+
+.card .back{
+  background: pink ;
+  color:white ;
+}
+
+/* wish 3   */
+.questions-container3{
+  width:100%;
+  height:140vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px 400px;
+  background-attachment: fixed;
+
+}
+.wish3_space1{
+display: flex;
+grid-column: 1/6;
+justify-content: center;
+}
+.wish3_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+
+.questions-container3 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+
+
+/* wish 4   */
+.questions-container4{
+  width:100%;
+  height:140vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px 400px;
+  background-attachment: fixed;
+
+}
+.wish4_space1{
+display: flex;
+grid-column: 1/6;
+justify-content: center;
+}
+.wish4_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+
+.questions-container4 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+.questions-container4 #q2{
+padding: 10px;
+width: 300px;
+height: 300px;
+
+}
+
+/* wish 7 pooja */
+
+.questions-container7{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px 400px;
+  background-attachment: fixed;
+
+}
+.wish7_space1{
+display: flex;
+}
+.wish7_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+.wish7_space3{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+.questions-container7 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+
+ .questions-container7 #q10{
+ padding: 10px;
+ width: 600px;
+ height: 400px;
+
+}
+
+/* wish 8  */
+.questions-container8{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px ;
+  background-attachment: fixed;
+
+}
+.wish8_space1{
+display: flex;
+justify-content: center;
+}
+.wish8_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+/* wish 9 nishanth  */
+.questions-container9{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px 400px;
+  background-attachment: fixed;
+
+}
+.wish9_space1{
+display: flex;
+grid-column: 1/6;
+justify-content: center;
+}
+.wish9_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+
+.questions-container9 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+.questions-container #q2{
+padding: 10px;
+width: 400px;
+height: 400px;
+
+}
+
+/* wish 10 mounika  */
+.questions-container10{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+  grid-template-rows: 400px 400px 400px;
+  background-attachment: fixed;
+
+}
+#wish10_space1{
+display: flex;
+justify-content: center;
+}
+#wish10_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+#wish10_space3{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+.questions-container10 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+.questions-container10 #q2{
+padding: 10px;
+width: 400px;
+height: 400px;
+
+}
+
+.questions-container10 #q1{
+padding: 10px;
+width: 250px;
+height: 400px;
+
+}
+
+.questions-container10 #q3{
+padding: 10px;
+width: 350px;
+height: 400px;
+
+}
+
+ .questions-container10 #q4{
+ padding: 10px;
+ width: 400px;
+ height: 400px;
+
+}
+
+.questions-container10 #q5{
+padding: 10px;
+width: 270px;
+height: 300px;
+
+}.questions-container10 #q10{
+padding: 10px;
+width: 400px;
+height: 400px;
+
+}
+
+/* wish 12 monu  */
+.questions-container12{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px ;
+  background-attachment: fixed;
+
+}
+#wish12_space1{
+display: flex;
+grid-column: 1/6;
+justify-content: center;
+}
+#wish12_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+
+/* wish 13 monu  */
+.questions-container13{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px ;
+  background-attachment: fixed;
+
+}
+.wish13_space1{
+display: flex;
+justify-content: center;
+}
+.wish13_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+
+/* wish 14 teja sr  */
+.questions-container14{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display:flex;
+
+
+
+}
+
+.questions-container14 .card-container{
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+
+}
+.questions-container14 #q{
+padding: 10px;
+width: 400px;
+height: 400px;
+
+}
+
+/* wish 15  */
+.questions-container16{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px ;
+  background-attachment: fixed;
+
+}
+.wish15_space1{
+display: flex;
+justify-content: center;
+}
+.wish15_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+/* wish 16 geethika */
+.questions-container16{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: grid;
+
+  grid-template-rows: 400px 400px ;
+  background-attachment: fixed;
+
+}
+.wish16_space1{
+display: flex;
+justify-content: center;
+}
+.wish16_space2{
+  display: flex;
+  grid-column: 1/6;
+  justify-content: center;
+}
+/* wish 17 kavya  */
+.questions-container17{
+  width:100%;
+  height:180vh;
+  background: url('bg1.jpg');
+  justify-content: center;
+  display: flex;
+  background-attachment: fixed;
+
+}
